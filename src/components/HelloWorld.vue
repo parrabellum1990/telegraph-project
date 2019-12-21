@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>VOT ETO MANDA PRIVALILA!!!!GIT ZAEBAL! FIXIM GIT</h1>
     <p>woto nada delat!!</p>
+    <p>Sdelal rabotu s noura</p>
     <h1>{{ msg }}</h1>
   </div>
 </template>
