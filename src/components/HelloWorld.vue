@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
-    <h1>VOT ETO MANDA PRIVALILA!!!!</h1>
+    <h1>VOT ETO MANDA PRIVALILA!!!!GIT ZAEBAL! FIXIM GIT</h1>
+    <p>woto nada delat!!</p>
     <h1>{{ msg }}</h1>
   </div>
 </template>
